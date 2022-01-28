@@ -48,7 +48,8 @@ print("\nFile Copied Successfully!")
 
 ### OUTPUT:
 
-![DOC](./HAR.png)
+![DOC](https://user-images.githubusercontent.com/93427208/151499388-c792e69f-74c9-4dd0-93f2-4dcdb00b879c.png)
+
 
 
 ## RESULT:
